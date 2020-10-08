@@ -1,0 +1,7 @@
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleMultiplication\ConsoleMultiplication\bin\Debug\ConsoleMultiplication.exe.config
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleMultiplication\ConsoleMultiplication\bin\Debug\ConsoleMultiplication.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleMultiplication\ConsoleMultiplication\bin\Debug\ConsoleMultiplication.pdb
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleMultiplication\ConsoleMultiplication\obj\Debug\ConsoleMultiplication.csprojAssemblyReference.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleMultiplication\ConsoleMultiplication\obj\Debug\ConsoleMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleMultiplication\ConsoleMultiplication\obj\Debug\ConsoleMultiplication.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleMultiplication\ConsoleMultiplication\obj\Debug\ConsoleMultiplication.pdb
